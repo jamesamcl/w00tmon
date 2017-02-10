@@ -1,0 +1,13 @@
+{
+    "irc": {
+        "server": "irc.scalesinformatics.com",
+        "port": 6698,
+        "password": "Sc4lesB0ts",
+        "secure": true,
+        "selfSigned": true,
+        "channels": [
+            "#scales"
+        ],
+        "nickPrefix": "hal_"
+    }
+}
